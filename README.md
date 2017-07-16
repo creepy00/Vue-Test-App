@@ -1,6 +1,6 @@
 # vuetest
 
-> A Vue.js project
+> A Vue.js test project with todolist, api test, also using router and components
 
 ## Build Setup
 
